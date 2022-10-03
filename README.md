@@ -1,4 +1,8 @@
-﻿## Reed
+# NOTE!
+_**IM NOT WORKING ON THIS PROJECT ANYMORE. THIS REPO IS NOW ARCHIEVED AND READ ONLY!**_
+
+
+## Reed
 
 Reed is a personal bot that runs on Discord and created by qing762
 
